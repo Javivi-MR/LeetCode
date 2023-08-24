@@ -16,3 +16,6 @@ class Solution(object):
             if target - nums[i] in m:
                 return [m[target-nums[i]],i]
             m[nums[i]] = i
+            
+# Time complexity: O(n)
+# Space complexity: O(n)
