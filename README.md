@@ -8,7 +8,7 @@ If you have any questions or suggestions, you can contact me through the followi
 
 - Email: javier.molinarojas@alum.uca.es
 
-## Table of Contentsç
+## Table of Contents
 1. Array and Hashing
    - 1.1. Contains Duplicate (Easy)
    - 1.2. Valid Anagram (Easy)
