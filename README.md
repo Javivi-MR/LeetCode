@@ -8,7 +8,7 @@ If you have any questions or suggestions, you can contact me through the followi
 
 - Email: javier.molinarojas@alum.uca.es
 
-## Table of Contents
+## Table of Contentsç
 1. Array and Hashing
    - 1.1. Contains Duplicate (Easy)
    - 1.2. Valid Anagram (Easy)
@@ -17,7 +17,7 @@ If you have any questions or suggestions, you can contact me through the followi
    - 1.5. Top K Frequent Elements (Medium)
    - 1.6. Product of Array Except Self (Medium)
    - 1.7. Valid Sudoku (Medium)
-   - 1.8. Encode and Decode Strings (Medium)
+   - 1.8. First Missing Positive (Hard)
    - 1.9. Longest Consecutive Sequence (Hard)
 
 2. Two Pointers
