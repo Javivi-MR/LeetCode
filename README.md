@@ -1,4 +1,4 @@
-# leetCode
+# LeetCode
 Repository for grinding Leetcode problems :)
 
 I will be adding solutions to problems I solve on Leetcode here. I will try to add a solution in C++ and Python for each problem. I will follow [this](https://neetcode.io/practice) guide for solving problems.
